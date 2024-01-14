@@ -9,13 +9,14 @@ class Buffer;
 using std::placeholders::_1;
 using std::placeholders::_2;
 using std::placeholders::_3;
-// using ConnectPtr = std::shared_ptr<Connection>  ;
-using DeleteConnectCallback = std::function<void(Socket *)>;
+using TcpConnectionPtr =  std::shared_ptr<Connection> ;
+
+using DeleteConnectCallback = std::function<void(const TcpConnectionPtr&)>;
 using ReadEventCallback = std::function<void()>;
 using WriteEventCallback = std::function<void()>;
 using CloseEventCallback = std::function<void()>;
 using ErrorEventCallback = std::function<void()>;
-using OnMessageCallback = std::function<void(Connection *, Buffer *buf)>;
-using ConnectCallback = std::function<void(Connection *)>;
+using OnMessageCallback = std::function<void(const TcpConnectionPtr&, Buffer *buf)>;
+using ConnectCallback = std::function<void(const TcpConnectionPtr&)>;
 } // namespace net
 #endif

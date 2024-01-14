@@ -119,7 +119,8 @@ add_custom_target(clean-all
     COMMAND ${CMAKE_COMMAND} -E remove_directory ${CMAKE_BINARY_DIR}
     COMMENT "Removing all generated files.")
 
-
-add_subdirectory(test)
+    
 add_subdirectory(src)
+add_subdirectory(test)
+
 

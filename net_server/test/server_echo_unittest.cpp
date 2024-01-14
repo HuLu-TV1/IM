@@ -4,6 +4,7 @@
 #include <string>
 #include<iostream>
 #include "log.h"
+#include <memory>
 using namespace net;
 class EchoServer{
     public:
@@ -15,12 +16,12 @@ class EchoServer{
         server_.Start();
     }
     private:
-        void OnMessage( Connection *connc, Buffer *readbuf) {
+        void OnMessage( const std::shared_ptr<Connection>&connc, Buffer *readbuf) {
         std::string str(readbuf->RetrieveAllAsString());
         LOG_DEBUG("receive str = %s",str.c_str());
         connc->send(str);
     }
-    void onConnect( Connection *connc) {
+    void onConnect( const std::shared_ptr<Connection>&connc) {
         connc->send("bye");
     }
     private:
@@ -30,8 +31,8 @@ class EchoServer{
 int main() {
     CommonLog::Logger::GetInstance()->Init(CommonLog::LogType::LOG_PRINT, 0);
   InetAddress serv_addr(8888, "127.0.0.1");
-  EventLoop event_loop;
+  EventLoop event_loop("main");
   EchoServer echo_server(&event_loop, serv_addr);
   echo_server.Start();
-  return 0;
+  return 0; 
 }

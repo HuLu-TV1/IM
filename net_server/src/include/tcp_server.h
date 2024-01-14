@@ -29,13 +29,15 @@ private:
   std::vector<std::unique_ptr<EventLoop>> sub_eventloops_;
   Socket *_socket_;
   void NewConnect(int client_fd);
-  void DeleteConnection(Socket *sock);
-  std::map<int, std::unique_ptr<Connection>> connections_;
+  void DeleteConnection(const TcpConnectionPtr&conn);
+  std::map<int, TcpConnectionPtr> connections_;
   std::unique_ptr<ThreadPool> threads_pools_;
   OnMessageCallback message_callback_;
   ConnectCallback connection_callback_;
-  static void DefaultMessageCb(Connection *connect, Buffer *buf);
-  static void DefaultConnectCb(Connection *connect);
+  void RemoveConnectionInLoop(const TcpConnectionPtr&conn) ;
+  static void DefaultMessageCb(const TcpConnectionPtr& , Buffer *buf);
+  static void DefaultConnectCb(const TcpConnectionPtr&);
+
 };
 } // namespace net
 #endif
