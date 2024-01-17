@@ -7,7 +7,7 @@
 #include <signal.h>
 #include <sys/eventfd.h>
 #include <unistd.h>
-
+#include "time_wheel.h"
 using namespace net;
 const int thread_num = 8;
 
@@ -26,8 +26,11 @@ EventLoop::EventLoop(std::string name) : name_(name),
                                          quit_(false),
                                          threadId_(std::this_thread::get_id()),
                                          callingPendingFunctors_(false)
+                                         
 {
   epoll_ = std::make_unique<Epoll>();
+  //timer_ = std::make_unique<TimerLoop>(this);
+  timer_ = new TimerLoop(this);
   wake_fd_ = CreateEvenFd();
   wake_channel_ = std::make_unique<Channel>(this, wake_fd_);
   std::function<void()> cb = std::bind(&EventLoop::HandleRead, this);
@@ -129,4 +132,18 @@ void EventLoop::doPendingFunctors()
 }
 
 
+void EventLoop:: Timer_Once(double time,TimerCallback cb) {
+  itimerspec when ;
+  when.it_value.tv_sec = time/1000;
+  when.it_value.tv_nsec =time;
+  timer_->addTimer(std::move(cb),when);
 
+}
+void EventLoop:: Timer_Every(double time,TimerCallback cb) {
+  itimerspec when ;
+  when.it_value.tv_sec = time/1000;
+  when.it_value.tv_nsec =time;
+  when.it_interval.tv_sec =  time/1000;
+   when.it_interval.tv_nsec =time;
+  timer_->addTimer(std::move(cb),when);
+}

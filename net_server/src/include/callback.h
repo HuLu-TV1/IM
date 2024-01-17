@@ -10,7 +10,7 @@ using std::placeholders::_1;
 using std::placeholders::_2;
 using std::placeholders::_3;
 using TcpConnectionPtr =  std::shared_ptr<Connection> ;
-
+typedef std::function<void()> TimerCallback;
 using DeleteConnectCallback = std::function<void(const TcpConnectionPtr&)>;
 using ReadEventCallback = std::function<void()>;
 using WriteEventCallback = std::function<void()>;

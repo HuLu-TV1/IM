@@ -6,6 +6,7 @@
 #include <map>
 #include <tcp_connection.h>
 #include <vector>
+#include <acceptor.h>
 namespace net {
 class InetAddress;
 class EventLoop;
@@ -27,7 +28,6 @@ private:
   int thread_num_;
   int server_fd_;
   std::vector<std::unique_ptr<EventLoop>> sub_eventloops_;
-  Socket *_socket_;
   void NewConnect(int client_fd);
   void DeleteConnection(const TcpConnectionPtr&conn);
   std::map<int, TcpConnectionPtr> connections_;
@@ -37,6 +37,7 @@ private:
   void RemoveConnectionInLoop(const TcpConnectionPtr&conn) ;
   static void DefaultMessageCb(const TcpConnectionPtr& , Buffer *buf);
   static void DefaultConnectCb(const TcpConnectionPtr&);
+   std::unique_ptr<Acceptor> accptor;
 
 };
 } // namespace net

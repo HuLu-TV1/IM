@@ -6,18 +6,14 @@
 #include <time.h>
 #include <unistd.h>
 #include <memory>
+#include "channel.h"
+#include "event_loop.h"
+#include <time.h>
 namespace net { 
 class Connection;
-void printTime(time_t t) {
-  struct tm timeinfo;
-  localtime_r(&t, &timeinfo); // localtime_r 函数是线程安全版本的 localtime
-
-  char buffer[80];
-  strftime(buffer, sizeof(buffer), "%H:%M:%S", &timeinfo);
-  std::cout << "时分秒： " << buffer << std::endl;
-}
 
 using Func = std::function<void()>;
+
 class TimerNode {
 public:
   TimerNode(std::shared_ptr<net::Connection> connect,int timeout)
@@ -27,12 +23,14 @@ public:
   TimerNode &operator=(const TimerNode &) = delete;
 
 public:
+
+ std::shared_ptr<net::Connection>connection_;
   int rotation_;
   int time_slot_;
   TimerNode *next_;
   TimerNode *pre_;
   int timeout_; // 
-  std::shared_ptr<net::Connection>connection_;
+ 
 };
 
 class TimeWheel {
@@ -83,14 +81,16 @@ public:
     while (current_timer) {
         TimerNode * delete_timer = current_timer;
       if (!current_timer->rotation_) {
-        current_timer->cb_func_();
+        ////TODDO
+       // current_timer->cb_func_();
         DelTimer(delete_timer);
       } else {
         current_timer->rotation_--;
       }
       current_timer = current_timer->next_;
     }
-    cur_slot = ++cur_slot % kN;
+    cur_slot++;
+    cur_slot = cur_slot % kN;
   }
   void Show() {
     for (int i = 0; i < kN; i++) {
@@ -138,5 +138,19 @@ public:
   int cur_slot;
 };
 
+class TimerLoop {
+  public:
+  TimerLoop(EventLoop*loop);
+  ~TimerLoop();
+  void addTimer(TimerCallback cb,itimerspec  when);
+  private:
+  void addTimerInLoop(itimerspec when);
+  EventLoop*loop_;
+  const int timerfd_;
+  Channel timer_fd_channel_;
+  void HandleRead();
+  TimeWheel timer_wheel_;
+  TimerCallback cb_;
+};
 }
 #endif

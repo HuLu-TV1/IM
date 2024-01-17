@@ -6,11 +6,12 @@
 #include <memory>
 #include <mutex>
 #include <string.h>
+#include "callback.h"
 namespace net
 {
   class Epoll;
   class Channel;
-
+class TimerLoop;
   class EventLoop : noncopyable
   {
   public:
@@ -33,6 +34,8 @@ namespace net
     void QueueInLoop(Functor cb);
     size_t QueueSize() const;
     void doPendingFunctors();
+    void Timer_Once(double time,TimerCallback cb);
+    void Timer_Every(double time,TimerCallback cb);
     std::string name_;
 
   private:
@@ -47,6 +50,8 @@ namespace net
      void HandleRead();  // waked up
      void WakeUp();
     std::atomic<bool> callingPendingFunctors_;
+   // std::unique_ptr<TimerLoop> timer_;
+   TimerLoop *timer_;
   };
 } // namespace net
 #endif

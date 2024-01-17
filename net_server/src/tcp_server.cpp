@@ -18,7 +18,7 @@ Server::Server(EventLoop *eventloop, InetAddress &addr, int threads_num)
       message_callback_(DefaultMessageCb),
       connection_callback_(DefaultConnectCb)
 {
-  Acceptor *accptor = new Acceptor(main_eventloop_, addr);
+  accptor = std::make_unique<Acceptor>(main_eventloop_, addr);
   std::function<void(int)> connectCb =
       std::bind(&Server::NewConnect, this, std::placeholders::_1);
   accptor->set_new_connection_callback(connectCb);
