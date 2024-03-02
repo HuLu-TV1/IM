@@ -19,6 +19,7 @@ set(SRC
 "src/common/arena.cpp"
 )
 
+set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/third_part/bin)
 
 add_library(otutil SHARED ${SRC})
 target_include_directories(otutil PRIVATE ${COMMON_INC})

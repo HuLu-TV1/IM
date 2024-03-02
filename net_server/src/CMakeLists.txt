@@ -13,9 +13,8 @@ message( "need_library: ${need_library}")
 
 add_library(net_demo ${SRC_DIR_LIST})
 #设置public 代码是公开的这样依赖net_demo的文件也可以找到liblog.so
-target_include_directories(net_demo PUBLIC ./include ${CMAKE_SOURCE_DIR}/thirdfile/include)
-target_link_libraries(net_demo PUBLIC ${CMAKE_SOURCE_DIR}/thirdfile/lib/liblog.so)
-
+target_include_directories(net_demo PUBLIC ./include ${CMAKE_SOURCE_DIR}/src/libotutil/include/common)
+target_link_libraries(net_demo PUBLIC ${CMAKE_SOURCE_DIR}/third_part/bin/libotutil.so)
 message( "PROJECT_BINARY_DIR: ${PROJECT_BINARY_DIR}")
 
 
