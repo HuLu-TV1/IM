@@ -5,7 +5,7 @@ using namespace net;
 int main() {
   InetAddress serv_addr(8888, "127.0.0.1");
   EventLoop eventloop("main");
-  Server server(&eventloop, serv_addr);
+  Server server(&eventloop, serv_addr,10);
   server.Start();
   return 0;
 }

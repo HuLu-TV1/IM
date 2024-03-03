@@ -42,7 +42,7 @@ class TimerLoop;
     void abortNotInLoopThread();
     std::unique_ptr<Epoll> epoll_;
     bool quit_;
-    const std::thread::id threadId_;
+     std::thread::id threadId_;
     std::vector<Functor> pendingFunctors_;
     mutable std::mutex mut;
     int wake_fd_;

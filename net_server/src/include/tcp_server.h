@@ -14,7 +14,7 @@ class Socket;
 class ThreadPool;
 class Server : noncopyable {
 public:
-  Server(EventLoop *eventloop, InetAddress &addr, int threads_num = 10);
+  Server(EventLoop *eventloop, InetAddress &addr, int threads_num);
   void Start();
   void set_message_cb(const OnMessageCallback &cb) {
     message_callback_ = std::move(cb);

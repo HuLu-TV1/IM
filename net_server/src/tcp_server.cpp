@@ -24,6 +24,7 @@ Server::Server(EventLoop *eventloop, InetAddress &addr, int threads_num)
   accptor->set_new_connection_callback(connectCb);
   threads_pools_ = std::make_unique<ThreadPool>(thread_num_);
   threads_pools_->Start();
+  LOG_DEBUG("thread_num_  = %d",thread_num_);
   for (int i = 0; i < thread_num_; i++)
   {
     
@@ -31,7 +32,7 @@ Server::Server(EventLoop *eventloop, InetAddress &addr, int threads_num)
       sprintf(tmp, "%d", i); // 使用 sprintf() 进行格式化输入
     std::string name = "loop";
     name +=tmp;
-    std::unique_ptr<EventLoop> sub_loop = std::make_unique<EventLoop>(name);
+    std::unique_ptr<EventLoop> sub_loop = std::make_unique<EventLoop>(name);   //  这么写有一个问题就是 在主线程中创建了sub_loop 这样在其他线程中跑的时候会出现abortNotInLoopThread
     sub_eventloops_.emplace_back(std::move(sub_loop));
   }
 }

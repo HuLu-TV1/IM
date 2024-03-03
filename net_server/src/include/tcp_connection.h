@@ -37,7 +37,7 @@ namespace net
     void shutdown();
     void ConnectEstablished();
     void ConnectDestroyed();
-
+    void ShowCurrentState();
     size_t get_socket_fd() const {return client_fd_;}
     EventLoop *get_loop() const {return eventloop_;}
 
@@ -55,6 +55,7 @@ namespace net
     void HandleWrite();
     void HandleClose();
     void HandleError();
+    void shutdownInLoop();
     ConnectCallback connectio_callback_;
     OnMessageCallback message_callback_;
     DeleteConnectCallback deleteConnectionCallback_;
@@ -64,6 +65,7 @@ namespace net
     Buffer input_buf_;
     Buffer output_buf_;
     StateE state_;
+    std::string StateStr_;
     int client_fd_;
   };
 } // namespace net

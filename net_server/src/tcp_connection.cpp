@@ -19,7 +19,7 @@ void Print()
   LOG_DEBUG("std::this_thread::get_id is  = %d", std::this_thread::get_id());
 }
 Connection::Connection(EventLoop *eventloop, int client_fd)
-    : eventloop_(eventloop), clntSock_(std::make_unique<Socket>(client_fd)), state_(Kconnecting),client_fd_(client_fd)
+    : eventloop_(eventloop), clntSock_(std::make_unique<Socket>(client_fd)), state_(Kconnecting), client_fd_(client_fd)
 {
   int connect_fd_ = clntSock_->get_socket_fd();
   clntSock_->set_nonblocking(client_fd);
@@ -35,13 +35,11 @@ Connection::Connection(EventLoop *eventloop, int client_fd)
         std::bind(&Connection::HandleError, this));
     client_channel_->set_handle_close_event(
         std::bind(&Connection::HandleClose, this));
-    //client_channel_->EnableRead();
+    // client_channel_->EnableRead();
   }
 }
 
 Connection::~Connection() { assert(state_ == KDisconnected); }
-
-
 
 void Connection::HandleError()
 {
@@ -54,7 +52,7 @@ void Connection::HandleRead()
 {
   int savedErrno;
   ssize_t len = input_buf_.ReadFd(client_channel_->get_fd(), &savedErrno);
-  LOG_DEBUG("HandleRead len = %d",len);
+  LOG_DEBUG("HandleRead len = %d", len);
   if (len > 0)
   {
     message_callback_(shared_from_this(), &input_buf_);
@@ -75,6 +73,7 @@ void Connection::HandleWrite()
 
   if (client_channel_->IsWriting())
   {
+     LOG_DEBUG("HandleWrite");
     ssize_t n = write(clntSock_->get_socket_fd(), output_buf_.Peek(), output_buf_.ReadableBytes());
     if (n > 0)
     {
@@ -100,12 +99,35 @@ void Connection::HandleWrite()
 }
 void Connection::HandleClose()
 {
-  LOG_DEBUG("close fd = %d state= = %d", client_channel_->get_fd(), state_);
+  ShowCurrentState();
+  LOG_DEBUG("close fd = %d state= %s", client_channel_->get_fd(), StateStr_.c_str());
   assert(state_ == KConnected || state_ == KDisconnecting);
   setState(KDisconnected);
   connectio_callback_(shared_from_this());
   client_channel_->DisableAll();
   deleteConnectionCallback_(shared_from_this());
+}
+
+void Connection::ShowCurrentState()
+{
+  switch (state_)
+  {
+  case KDisconnected:
+    StateStr_ = "KDisconnected";
+    break;
+  case Kconnecting:
+    StateStr_ = "Kconnecting";
+    break;
+  case KConnected:
+    StateStr_ = "KConnected";
+    break;
+  case KDisconnecting:
+    StateStr_ = "KDisconnecting";
+    break;
+
+  default:
+    break;
+  }
 }
 void Connection::send(std::string str)
 {
@@ -120,6 +142,7 @@ void Connection::send(std::string str)
   bool faultError = false;
   if (!client_channel_->IsWriting() && output_buf_.ReadableBytes() == 0)
   {
+      LOG_DEBUG("size = %d",len);
     nwrote = write(clntSock_->get_socket_fd(), str.c_str(), len);
     if (nwrote >= 0)
     {
@@ -168,6 +191,7 @@ void Connection::shutdown()
   if (state_ == KConnected)
   {
     setState(KDisconnecting);
+    eventloop_->RunInLoop(std::bind(&Connection::shutdownInLoop, this));
   }
 }
 
@@ -175,30 +199,32 @@ void Connection::ConnectEstablished()
 {
   LOG_DEBUG("ConnectEstablished");
   eventloop_->assertInLoopThread();
-  LOG_DEBUG("state_ = %d",state_);
+  LOG_DEBUG("state_ = %d", state_);
   assert(state_ == Kconnecting);
-  // setState(KConnected);
-  //client_channel_->tie();
+  setState(KConnected);
+  // client_channel_->tie();
   client_channel_->EnableRead();
-   LOG_DEBUG("ConnectEstablished");
+  LOG_DEBUG("ConnectEstablished");
 }
 void Connection::ConnectDestroyed()
 {
   eventloop_->assertInLoopThread();
-if(state_== KConnected) {
-  setState(KDisconnected);
-  client_channel_->DisableAll();
-  connectio_callback_(shared_from_this());
-}
+   LOG_DEBUG("ConnectDestroyed");
+  if (state_ == KConnected)
+  {
+    setState(KDisconnected);
+    client_channel_->DisableAll();
+    connectio_callback_(shared_from_this());
+  }
 }
 
-
-// void Connection::shutdownInLoop()
-// {
-//   loop_->assertInLoopThread();
-//   if (!channel_->isWriting())
-//   {
-//     // we are not writing
-//     socket_->shutdownWrite();
-//   }
-// }
+void Connection::shutdownInLoop()
+{
+  eventloop_->assertInLoopThread();
+  LOG_DEBUG("shutdownInLoop");
+  if (!client_channel_->IsWriting())
+  {
+    // we are not writing
+    clntSock_->shutdownWrite();
+  }
+}

@@ -24,7 +24,6 @@ int CreateEvenFd()
 
 EventLoop::EventLoop(std::string name) : name_(name),
                                          quit_(false),
-                                         threadId_(std::this_thread::get_id()),
                                          callingPendingFunctors_(false)
                                          
 {
@@ -67,6 +66,8 @@ EventLoop::~EventLoop()
 }
 void EventLoop::Loop()
 {
+  threadId_=std::this_thread::get_id();
+   LOG_DEBUG("Loop  = %p  was created in threadId_ = %d , current thread id = %d", this, threadId_, std::this_thread::get_id());
   while (!quit_)
   {
     std::vector<Channel *> chs;
@@ -83,7 +84,6 @@ void EventLoop::Loop()
 void EventLoop::UpdateChannel(Channel *channel) { epoll_->Update(channel); }
 void EventLoop::abortNotInLoopThread()
 {
-
   LOG_DEBUG("EventLoop::abortNotInLoopThread - EventLoop  = %p  was created in threadId_ = %d , current thread id = %d", this, threadId_, std::this_thread::get_id());
 }
 
