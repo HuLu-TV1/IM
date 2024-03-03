@@ -22,6 +22,7 @@ message( "PROJECT_BINARY_DIR: ${PROJECT_BINARY_DIR}")
 message( "CMAKE_LIBRARY_OUTPUT_DIRECTORY: ${CMAKE_LIBRARY_OUTPUT_DIRECTORY}")
 # set_target_properties(net_demo PROPERTIES OUTPUT_NAME "net_demo")
 # install(TARGETS net_demo ARCHIVE DESTINATION ${CMAKE_INSTALL_PREFIX}/lib)
-
-
+if(CMAKE_BUILD_TYPE STREQUAL "Release")
+    target_compile_definitions(net_demo PUBLIC NLOG)
+endif()
 
