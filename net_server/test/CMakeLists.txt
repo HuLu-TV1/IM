@@ -30,6 +30,10 @@ endif()
 add_executable(coroutine_test coroutine_test.cpp)
 target_link_libraries(coroutine_test PUBLIC ${CMAKE_SOURCE_DIR}/third_part/bin/libotutil.so pthread)
 
+add_executable(connect_pool_test connect_pool_unittest.cpp)
+target_link_libraries(connect_pool_test PUBLIC ${CMAKE_SOURCE_DIR}/third_part/bin/libotutil.so pthread)
+
+
 if(CMAKE_BUILD_TYPE STREQUAL "Release")
     target_compile_definitions(otutil PUBLIC NLOG)
 endif()

@@ -1,0 +1,5125 @@
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+493  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+EINTR
+536  
+550  
+
+Benchmarking: GET http://127.0.0.1/
+1000 clients, running 10 sec.
+
+Speed=2258178 pages/min, 2292386 bytes/sec.
+Requests: 375801 susceed, 562 failed.
